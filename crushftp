@@ -1,0 +1,6 @@
+# Admin Allow Commands
+
+%INFMFTCSHLDZZ_DEV_Server_Administrator@Amerco.net ALL=/var/opt/CrushFTP10/crushftp_init.sh stop,\ 
+/var/opt/CrushFTP10/crushftp_init.sh start,\
+/bin/kill,\
+/sbin/reboot
